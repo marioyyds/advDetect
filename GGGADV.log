@@ -1,958 +1,0 @@
-nohup: ignoring input
-Checkpoint exsit.
-Generating adversarial samples:   0%|          | 0/429 [00:00<?, ?it/s]Generating adversarial samples:   0%|          | 1/429 [00:06<47:35,  6.67s/it]Generating adversarial samples:   0%|          | 2/429 [00:11<41:18,  5.80s/it]Generating adversarial samples:   1%|          | 3/429 [00:17<39:29,  5.56s/it]Generating adversarial samples:   1%|          | 4/429 [00:22<38:20,  5.41s/it]Generating adversarial samples:   1%|          | 5/429 [00:27<37:42,  5.34s/it]Generating adversarial samples:   1%|▏         | 6/429 [00:32<37:18,  5.29s/it]Generating adversarial samples:   2%|▏         | 7/429 [00:37<36:55,  5.25s/it]Generating adversarial samples:   2%|▏         | 8/429 [00:43<36:48,  5.25s/it]Generating adversarial samples:   2%|▏         | 9/429 [00:48<36:45,  5.25s/it]Generating adversarial samples:   2%|▏         | 10/429 [00:53<36:31,  5.23s/it]Generating adversarial samples:   3%|▎         | 11/429 [00:58<36:28,  5.23s/it]Generating adversarial samples:   3%|▎         | 12/429 [01:04<36:18,  5.22s/it]Generating adversarial samples:   3%|▎         | 13/429 [01:09<36:13,  5.23s/it]Generating adversarial samples:   3%|▎         | 14/429 [01:14<36:10,  5.23s/it]Generating adversarial samples:   3%|▎         | 15/429 [01:19<36:05,  5.23s/it]Generating adversarial samples:   4%|▎         | 16/429 [01:25<36:05,  5.24s/it]Generating adversarial samples:   4%|▍         | 17/429 [01:30<35:57,  5.24s/it]Generating adversarial samples:   4%|▍         | 18/429 [01:35<35:51,  5.24s/it]Generating adversarial samples:   4%|▍         | 19/429 [01:40<35:50,  5.24s/it]Generating adversarial samples:   5%|▍         | 20/429 [01:45<35:46,  5.25s/it]Generating adversarial samples:   5%|▍         | 21/429 [01:51<35:47,  5.26s/it]Generating adversarial samples:   5%|▌         | 22/429 [01:56<35:38,  5.25s/it]Generating adversarial samples:   5%|▌         | 23/429 [02:01<35:38,  5.27s/it]Generating adversarial samples:   6%|▌         | 24/429 [02:07<35:28,  5.26s/it]Generating adversarial samples:   6%|▌         | 25/429 [02:12<35:20,  5.25s/it]Generating adversarial samples:   6%|▌         | 26/429 [02:17<35:21,  5.26s/it]Generating adversarial samples:   6%|▋         | 27/429 [02:22<35:14,  5.26s/it]Generating adversarial samples:   7%|▋         | 28/429 [02:28<35:22,  5.29s/it]Generating adversarial samples:   7%|▋         | 29/429 [02:33<35:15,  5.29s/it]Generating adversarial samples:   7%|▋         | 30/429 [02:38<35:09,  5.29s/it]Generating adversarial samples:   7%|▋         | 31/429 [02:44<34:59,  5.27s/it]Generating adversarial samples:   7%|▋         | 32/429 [02:49<34:51,  5.27s/it]Generating adversarial samples:   8%|▊         | 33/429 [02:54<34:50,  5.28s/it]Generating adversarial samples:   8%|▊         | 34/429 [02:59<34:41,  5.27s/it]Batch 0: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 0: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 1: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 1: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 2: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 2: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 3: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 3: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 4: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 4: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 5: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 5: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 6: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 6: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 7: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 7: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 8: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 8: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 9: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 9: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 10: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 10: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 11: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 11: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 12: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 12: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 13: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 13: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 14: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 14: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 15: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 15: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 16: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 16: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 17: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 17: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 18: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 18: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 19: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 19: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 20: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 20: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 21: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 21: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 22: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 22: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 23: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 23: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 24: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 24: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 25: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 25: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 26: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 26: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 27: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 27: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 28: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 28: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 29: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 29: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 30: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 30: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 31: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 31: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 32: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 32: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 33: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 33: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 34: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:   8%|▊         | 35/429 [03:05<34:42,  5.29s/it]Generating adversarial samples:   8%|▊         | 36/429 [03:10<34:28,  5.26s/it]Generating adversarial samples:   9%|▊         | 37/429 [03:15<34:28,  5.28s/it]Generating adversarial samples:   9%|▉         | 38/429 [03:20<34:30,  5.29s/it]Generating adversarial samples:   9%|▉         | 39/429 [03:26<34:21,  5.28s/it]Generating adversarial samples:   9%|▉         | 40/429 [03:31<34:09,  5.27s/it]Generating adversarial samples:  10%|▉         | 41/429 [03:36<34:08,  5.28s/it]Generating adversarial samples:  10%|▉         | 42/429 [03:41<33:55,  5.26s/it]Generating adversarial samples:  10%|█         | 43/429 [03:47<33:59,  5.28s/it]Generating adversarial samples:  10%|█         | 44/429 [03:52<33:51,  5.28s/it]Generating adversarial samples:  10%|█         | 45/429 [03:57<33:52,  5.29s/it]Generating adversarial samples:  11%|█         | 46/429 [04:03<33:43,  5.28s/it]Generating adversarial samples:  11%|█         | 47/429 [04:08<33:35,  5.28s/it]Generating adversarial samples:  11%|█         | 48/429 [04:13<33:37,  5.29s/it]Generating adversarial samples:  11%|█▏        | 49/429 [04:19<33:27,  5.28s/it]Generating adversarial samples:  12%|█▏        | 50/429 [04:24<33:24,  5.29s/it]Generating adversarial samples:  12%|█▏        | 51/429 [04:29<33:19,  5.29s/it]Generating adversarial samples:  12%|█▏        | 52/429 [04:34<33:12,  5.29s/it]Generating adversarial samples:  12%|█▏        | 53/429 [04:40<33:02,  5.27s/it]Generating adversarial samples:  13%|█▎        | 54/429 [04:45<33:01,  5.28s/it]Generating adversarial samples:  13%|█▎        | 55/429 [04:50<33:07,  5.31s/it]Generating adversarial samples:  13%|█▎        | 56/429 [04:56<32:56,  5.30s/it]Generating adversarial samples:  13%|█▎        | 57/429 [05:01<32:54,  5.31s/it]Generating adversarial samples:  14%|█▎        | 58/429 [05:06<32:47,  5.30s/it]Generating adversarial samples:  14%|█▍        | 59/429 [05:12<32:45,  5.31s/it]Generating adversarial samples:  14%|█▍        | 60/429 [05:17<32:34,  5.30s/it]Generating adversarial samples:  14%|█▍        | 61/429 [05:22<32:37,  5.32s/it]Generating adversarial samples:  14%|█▍        | 62/429 [05:27<32:24,  5.30s/it]Generating adversarial samples:  15%|█▍        | 63/429 [05:33<32:18,  5.30s/it]Generating adversarial samples:  15%|█▍        | 64/429 [05:38<32:24,  5.33s/it]Generating adversarial samples:  15%|█▌        | 65/429 [05:43<32:13,  5.31s/it]Generating adversarial samples:  15%|█▌        | 66/429 [05:49<32:13,  5.33s/it]Generating adversarial samples:  16%|█▌        | 67/429 [05:54<32:05,  5.32s/it]Generating adversarial samples:  16%|█▌        | 68/429 [05:59<31:56,  5.31s/it]Batch 34: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 35: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 35: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 36: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 36: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 37: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 37: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 38: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 38: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 39: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 39: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 40: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 40: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 41: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 41: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 42: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 42: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 43: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 43: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 44: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 44: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 45: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 45: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 46: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 46: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 47: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 47: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 48: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 48: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 49: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 49: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 50: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 50: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 51: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 51: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 52: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 52: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 53: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 53: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 54: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 54: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 55: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 55: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 56: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 56: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 57: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 57: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 58: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 58: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 59: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 59: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 60: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 60: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 61: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 61: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 62: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 62: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 63: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 63: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 64: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 64: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 65: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 65: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 66: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 66: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 67: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 67: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 68: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  16%|█▌        | 69/429 [06:05<31:45,  5.29s/it]Generating adversarial samples:  16%|█▋        | 70/429 [06:10<31:36,  5.28s/it]Generating adversarial samples:  17%|█▋        | 71/429 [06:15<31:33,  5.29s/it]Generating adversarial samples:  17%|█▋        | 72/429 [06:20<31:23,  5.28s/it]Generating adversarial samples:  17%|█▋        | 73/429 [06:26<31:19,  5.28s/it]Generating adversarial samples:  17%|█▋        | 74/429 [06:31<31:14,  5.28s/it]Generating adversarial samples:  17%|█▋        | 75/429 [06:36<31:25,  5.33s/it]Generating adversarial samples:  18%|█▊        | 76/429 [06:42<31:12,  5.30s/it]Generating adversarial samples:  18%|█▊        | 77/429 [06:47<31:01,  5.29s/it]Generating adversarial samples:  18%|█▊        | 78/429 [06:52<30:58,  5.30s/it]Generating adversarial samples:  18%|█▊        | 79/429 [06:57<30:47,  5.28s/it]Generating adversarial samples:  19%|█▊        | 80/429 [07:03<30:44,  5.28s/it]Generating adversarial samples:  19%|█▉        | 81/429 [07:08<30:36,  5.28s/it]Generating adversarial samples:  19%|█▉        | 82/429 [07:13<30:32,  5.28s/it]Generating adversarial samples:  19%|█▉        | 83/429 [07:19<30:34,  5.30s/it]Generating adversarial samples:  20%|█▉        | 84/429 [07:24<30:29,  5.30s/it]Generating adversarial samples:  20%|█▉        | 85/429 [07:29<30:25,  5.31s/it]Generating adversarial samples:  20%|██        | 86/429 [07:35<30:18,  5.30s/it]Generating adversarial samples:  20%|██        | 87/429 [07:40<30:13,  5.30s/it]Generating adversarial samples:  21%|██        | 88/429 [07:45<30:00,  5.28s/it]Generating adversarial samples:  21%|██        | 89/429 [07:50<29:54,  5.28s/it]Generating adversarial samples:  21%|██        | 90/429 [07:56<29:54,  5.29s/it]Generating adversarial samples:  21%|██        | 91/429 [08:01<29:50,  5.30s/it]Generating adversarial samples:  21%|██▏       | 92/429 [08:06<29:46,  5.30s/it]Generating adversarial samples:  22%|██▏       | 93/429 [08:12<29:37,  5.29s/it]Generating adversarial samples:  22%|██▏       | 94/429 [08:17<29:31,  5.29s/it]Generating adversarial samples:  22%|██▏       | 95/429 [08:22<29:33,  5.31s/it]Generating adversarial samples:  22%|██▏       | 96/429 [08:28<29:27,  5.31s/it]Generating adversarial samples:  23%|██▎       | 97/429 [08:33<29:29,  5.33s/it]Generating adversarial samples:  23%|██▎       | 98/429 [08:38<29:19,  5.32s/it]Generating adversarial samples:  23%|██▎       | 99/429 [08:44<29:18,  5.33s/it]Generating adversarial samples:  23%|██▎       | 100/429 [08:49<29:05,  5.31s/it]Generating adversarial samples:  24%|██▎       | 101/429 [08:54<29:00,  5.31s/it]Generating adversarial samples:  24%|██▍       | 102/429 [08:59<28:53,  5.30s/it]Batch 68: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 69: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 69: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 70: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 70: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 71: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 71: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 72: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 72: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 73: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 73: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 74: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 74: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 75: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 75: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 76: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 76: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 77: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 77: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 78: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 78: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 79: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 79: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 80: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 80: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 81: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 81: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 82: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 82: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 83: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 83: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 84: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 84: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 85: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 85: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 86: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 86: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 87: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 87: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 88: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 88: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 89: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 89: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 90: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 90: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 91: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 91: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 92: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 92: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 93: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 93: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 94: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 94: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 95: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 95: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 96: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 96: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 97: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 97: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 98: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 98: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 99: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 99: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 100: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 100: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 101: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 101: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 102: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  24%|██▍       | 103/429 [09:05<28:42,  5.29s/it]Generating adversarial samples:  24%|██▍       | 104/429 [09:10<28:41,  5.30s/it]Generating adversarial samples:  24%|██▍       | 105/429 [09:15<28:33,  5.29s/it]Generating adversarial samples:  25%|██▍       | 106/429 [09:21<28:34,  5.31s/it]Generating adversarial samples:  25%|██▍       | 107/429 [09:26<28:26,  5.30s/it]Generating adversarial samples:  25%|██▌       | 108/429 [09:31<28:22,  5.30s/it]Generating adversarial samples:  25%|██▌       | 109/429 [09:36<28:11,  5.28s/it]Generating adversarial samples:  26%|██▌       | 110/429 [09:42<28:06,  5.29s/it]Generating adversarial samples:  26%|██▌       | 111/429 [09:47<28:05,  5.30s/it]Generating adversarial samples:  26%|██▌       | 112/429 [09:52<27:58,  5.30s/it]Generating adversarial samples:  26%|██▋       | 113/429 [09:58<27:52,  5.29s/it]Generating adversarial samples:  27%|██▋       | 114/429 [10:03<27:43,  5.28s/it]Generating adversarial samples:  27%|██▋       | 115/429 [10:08<27:41,  5.29s/it]Generating adversarial samples:  27%|██▋       | 116/429 [10:14<27:34,  5.29s/it]Generating adversarial samples:  27%|██▋       | 117/429 [10:19<27:25,  5.27s/it]Generating adversarial samples:  28%|██▊       | 118/429 [10:24<27:25,  5.29s/it]Generating adversarial samples:  28%|██▊       | 119/429 [10:29<27:19,  5.29s/it]Generating adversarial samples:  28%|██▊       | 120/429 [10:35<27:17,  5.30s/it]Generating adversarial samples:  28%|██▊       | 121/429 [10:40<27:08,  5.29s/it]Generating adversarial samples:  28%|██▊       | 122/429 [10:45<27:05,  5.30s/it]Generating adversarial samples:  29%|██▊       | 123/429 [10:51<26:56,  5.28s/it]Generating adversarial samples:  29%|██▉       | 124/429 [10:56<26:47,  5.27s/it]Generating adversarial samples:  29%|██▉       | 125/429 [11:01<26:56,  5.32s/it]Generating adversarial samples:  29%|██▉       | 126/429 [11:06<26:49,  5.31s/it]Generating adversarial samples:  30%|██▉       | 127/429 [11:12<26:46,  5.32s/it]Generating adversarial samples:  30%|██▉       | 128/429 [11:17<26:33,  5.29s/it]Generating adversarial samples:  30%|███       | 129/429 [11:22<26:29,  5.30s/it]Generating adversarial samples:  30%|███       | 130/429 [11:28<26:20,  5.29s/it]Generating adversarial samples:  31%|███       | 131/429 [11:33<26:11,  5.27s/it]Generating adversarial samples:  31%|███       | 132/429 [11:38<26:10,  5.29s/it]Generating adversarial samples:  31%|███       | 133/429 [11:43<26:02,  5.28s/it]Generating adversarial samples:  31%|███       | 134/429 [11:49<25:58,  5.28s/it]Generating adversarial samples:  31%|███▏      | 135/429 [11:54<25:56,  5.29s/it]Generating adversarial samples:  32%|███▏      | 136/429 [11:59<25:45,  5.28s/it]Batch 102: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 103: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 103: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 104: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 104: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 105: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 105: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 106: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 106: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 107: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 107: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 108: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 108: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 109: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 109: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 110: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 110: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 111: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 111: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 112: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 112: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 113: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 113: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 114: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 114: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 115: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 115: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 116: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 116: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 117: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 117: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 118: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 118: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 119: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 119: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 120: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 120: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 121: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 121: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 122: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 122: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 123: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 123: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 124: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 124: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 125: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 125: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 126: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 126: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 127: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 127: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 128: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 128: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 129: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 129: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 130: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 130: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 131: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 131: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 132: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 132: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 133: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 133: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 134: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 134: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 135: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 135: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 136: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  32%|███▏      | 137/429 [12:05<25:45,  5.29s/it]Generating adversarial samples:  32%|███▏      | 138/429 [12:10<25:37,  5.28s/it]Generating adversarial samples:  32%|███▏      | 139/429 [12:15<25:35,  5.30s/it]Generating adversarial samples:  33%|███▎      | 140/429 [12:20<25:27,  5.29s/it]Generating adversarial samples:  33%|███▎      | 141/429 [12:26<25:23,  5.29s/it]Generating adversarial samples:  33%|███▎      | 142/429 [12:31<25:15,  5.28s/it]Generating adversarial samples:  33%|███▎      | 143/429 [12:36<25:11,  5.29s/it]Generating adversarial samples:  34%|███▎      | 144/429 [12:42<25:10,  5.30s/it]Generating adversarial samples:  34%|███▍      | 145/429 [12:47<25:01,  5.29s/it]Generating adversarial samples:  34%|███▍      | 146/429 [12:52<25:03,  5.31s/it]Generating adversarial samples:  34%|███▍      | 147/429 [12:58<24:54,  5.30s/it]Generating adversarial samples:  34%|███▍      | 148/429 [13:03<24:52,  5.31s/it]Generating adversarial samples:  35%|███▍      | 149/429 [13:08<24:45,  5.31s/it]Generating adversarial samples:  35%|███▍      | 150/429 [13:13<24:36,  5.29s/it]Generating adversarial samples:  35%|███▌      | 151/429 [13:19<24:30,  5.29s/it]Generating adversarial samples:  35%|███▌      | 152/429 [13:24<24:23,  5.28s/it]Generating adversarial samples:  36%|███▌      | 153/429 [13:29<24:20,  5.29s/it]Generating adversarial samples:  36%|███▌      | 154/429 [13:35<24:13,  5.29s/it]Generating adversarial samples:  36%|███▌      | 155/429 [13:40<24:12,  5.30s/it]Generating adversarial samples:  36%|███▋      | 156/429 [13:45<24:04,  5.29s/it]Generating adversarial samples:  37%|███▋      | 157/429 [13:50<23:53,  5.27s/it]Generating adversarial samples:  37%|███▋      | 158/429 [13:56<23:52,  5.29s/it]Generating adversarial samples:  37%|███▋      | 159/429 [14:01<23:45,  5.28s/it]Generating adversarial samples:  37%|███▋      | 160/429 [14:06<23:43,  5.29s/it]Generating adversarial samples:  38%|███▊      | 161/429 [14:12<23:35,  5.28s/it]Generating adversarial samples:  38%|███▊      | 162/429 [14:17<23:27,  5.27s/it]Generating adversarial samples:  38%|███▊      | 163/429 [14:22<23:27,  5.29s/it]Generating adversarial samples:  38%|███▊      | 164/429 [14:27<23:21,  5.29s/it]Generating adversarial samples:  38%|███▊      | 165/429 [14:33<23:17,  5.29s/it]Generating adversarial samples:  39%|███▊      | 166/429 [14:38<23:10,  5.29s/it]Generating adversarial samples:  39%|███▉      | 167/429 [14:43<23:07,  5.30s/it]Generating adversarial samples:  39%|███▉      | 168/429 [14:49<22:59,  5.28s/it]Generating adversarial samples:  39%|███▉      | 169/429 [14:54<22:53,  5.28s/it]Generating adversarial samples:  40%|███▉      | 170/429 [14:59<22:53,  5.30s/it]Batch 136: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 137: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 137: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 138: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 138: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 139: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 139: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 140: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 140: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 141: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 141: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 142: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 142: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 143: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 143: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 144: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 144: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 145: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 145: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 146: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 146: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 147: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 147: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 148: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 148: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 149: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 149: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 150: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 150: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 151: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 151: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 152: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 152: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 153: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 153: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 154: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 154: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 155: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 155: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 156: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 156: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 157: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 157: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 158: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 158: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 159: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 159: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 160: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 160: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 161: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 161: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 162: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 162: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 163: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 163: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 164: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 164: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 165: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 165: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 166: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 166: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 167: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 167: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 168: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 168: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 169: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 169: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 170: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  40%|███▉      | 171/429 [15:05<22:46,  5.30s/it]Generating adversarial samples:  40%|████      | 172/429 [15:10<22:45,  5.31s/it]Generating adversarial samples:  40%|████      | 173/429 [15:15<22:37,  5.30s/it]Generating adversarial samples:  41%|████      | 174/429 [15:20<22:31,  5.30s/it]Generating adversarial samples:  41%|████      | 175/429 [15:26<22:22,  5.29s/it]Generating adversarial samples:  41%|████      | 176/429 [15:31<22:16,  5.28s/it]Generating adversarial samples:  41%|████▏     | 177/429 [15:36<22:11,  5.28s/it]Generating adversarial samples:  41%|████▏     | 178/429 [15:42<22:03,  5.27s/it]Generating adversarial samples:  42%|████▏     | 179/429 [15:47<21:59,  5.28s/it]Generating adversarial samples:  42%|████▏     | 180/429 [15:52<21:50,  5.26s/it]Generating adversarial samples:  42%|████▏     | 181/429 [15:57<21:45,  5.27s/it]Generating adversarial samples:  42%|████▏     | 182/429 [16:03<21:45,  5.29s/it]Generating adversarial samples:  43%|████▎     | 183/429 [16:08<21:39,  5.28s/it]Generating adversarial samples:  43%|████▎     | 184/429 [16:13<21:36,  5.29s/it]Generating adversarial samples:  43%|████▎     | 185/429 [16:18<21:26,  5.27s/it]Generating adversarial samples:  43%|████▎     | 186/429 [16:24<21:23,  5.28s/it]Generating adversarial samples:  44%|████▎     | 187/429 [16:29<21:16,  5.27s/it]Generating adversarial samples:  44%|████▍     | 188/429 [16:34<21:07,  5.26s/it]Generating adversarial samples:  44%|████▍     | 189/429 [16:40<21:16,  5.32s/it]Generating adversarial samples:  44%|████▍     | 190/429 [16:45<21:06,  5.30s/it]Generating adversarial samples:  45%|████▍     | 191/429 [16:50<21:00,  5.30s/it]Generating adversarial samples:  45%|████▍     | 192/429 [16:56<20:54,  5.29s/it]Generating adversarial samples:  45%|████▍     | 193/429 [17:01<20:44,  5.27s/it]Generating adversarial samples:  45%|████▌     | 194/429 [17:06<20:38,  5.27s/it]Generating adversarial samples:  45%|████▌     | 195/429 [17:11<20:30,  5.26s/it]Generating adversarial samples:  46%|████▌     | 196/429 [17:17<20:26,  5.27s/it]Generating adversarial samples:  46%|████▌     | 197/429 [17:22<20:20,  5.26s/it]Generating adversarial samples:  46%|████▌     | 198/429 [17:27<20:16,  5.27s/it]Generating adversarial samples:  46%|████▋     | 199/429 [17:32<20:11,  5.27s/it]Generating adversarial samples:  47%|████▋     | 200/429 [17:38<20:06,  5.27s/it]Generating adversarial samples:  47%|████▋     | 201/429 [17:43<20:00,  5.27s/it]Generating adversarial samples:  47%|████▋     | 202/429 [17:48<19:54,  5.26s/it]Generating adversarial samples:  47%|████▋     | 203/429 [17:53<19:53,  5.28s/it]Generating adversarial samples:  48%|████▊     | 204/429 [17:59<19:46,  5.27s/it]Batch 170: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 171: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 171: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 172: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 172: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 173: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 173: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 174: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 174: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 175: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 175: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 176: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 176: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 177: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 177: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 178: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 178: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 179: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 179: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 180: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 180: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 181: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 181: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 182: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 182: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 183: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 183: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 184: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 184: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 185: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 185: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 186: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 186: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 187: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 187: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 188: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 188: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 189: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 189: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 190: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 190: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 191: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 191: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 192: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 192: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 193: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 193: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 194: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 194: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 195: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 195: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 196: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 196: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 197: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 197: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 198: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 198: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 199: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 199: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 200: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 200: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 201: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 201: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 202: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 202: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 203: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 203: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 204: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  48%|████▊     | 205/429 [18:04<19:42,  5.28s/it]Generating adversarial samples:  48%|████▊     | 206/429 [18:09<19:41,  5.30s/it]Generating adversarial samples:  48%|████▊     | 207/429 [18:15<19:34,  5.29s/it]Generating adversarial samples:  48%|████▊     | 208/429 [18:20<19:27,  5.28s/it]Generating adversarial samples:  49%|████▊     | 209/429 [18:25<19:21,  5.28s/it]Generating adversarial samples:  49%|████▉     | 210/429 [18:30<19:11,  5.26s/it]Generating adversarial samples:  49%|████▉     | 211/429 [18:36<19:03,  5.25s/it]Generating adversarial samples:  49%|████▉     | 212/429 [18:41<18:56,  5.24s/it]Generating adversarial samples:  50%|████▉     | 213/429 [18:46<18:55,  5.26s/it]Generating adversarial samples:  50%|████▉     | 214/429 [18:51<18:48,  5.25s/it]Generating adversarial samples:  50%|█████     | 215/429 [18:57<18:50,  5.28s/it]Generating adversarial samples:  50%|█████     | 216/429 [19:02<18:44,  5.28s/it]Generating adversarial samples:  51%|█████     | 217/429 [19:07<18:40,  5.29s/it]Generating adversarial samples:  51%|█████     | 218/429 [19:13<18:33,  5.28s/it]Generating adversarial samples:  51%|█████     | 219/429 [19:18<18:27,  5.27s/it]Generating adversarial samples:  51%|█████▏    | 220/429 [19:23<18:21,  5.27s/it]Generating adversarial samples:  52%|█████▏    | 221/429 [19:28<18:15,  5.27s/it]Generating adversarial samples:  52%|█████▏    | 222/429 [19:34<18:09,  5.26s/it]Generating adversarial samples:  52%|█████▏    | 223/429 [19:39<18:07,  5.28s/it]Generating adversarial samples:  52%|█████▏    | 224/429 [19:44<18:02,  5.28s/it]Generating adversarial samples:  52%|█████▏    | 225/429 [19:49<18:00,  5.29s/it]Generating adversarial samples:  53%|█████▎    | 226/429 [19:55<17:56,  5.30s/it]Generating adversarial samples:  53%|█████▎    | 227/429 [20:00<17:48,  5.29s/it]Generating adversarial samples:  53%|█████▎    | 228/429 [20:05<17:42,  5.29s/it]Generating adversarial samples:  53%|█████▎    | 229/429 [20:11<17:33,  5.27s/it]Generating adversarial samples:  54%|█████▎    | 230/429 [20:16<17:30,  5.28s/it]Generating adversarial samples:  54%|█████▍    | 231/429 [20:21<17:26,  5.29s/it]Generating adversarial samples:  54%|█████▍    | 232/429 [20:26<17:23,  5.30s/it]Generating adversarial samples:  54%|█████▍    | 233/429 [20:32<17:14,  5.28s/it]Generating adversarial samples:  55%|█████▍    | 234/429 [20:37<17:07,  5.27s/it]Generating adversarial samples:  55%|█████▍    | 235/429 [20:42<17:01,  5.26s/it]Generating adversarial samples:  55%|█████▌    | 236/429 [20:48<16:57,  5.27s/it]Generating adversarial samples:  55%|█████▌    | 237/429 [20:53<16:55,  5.29s/it]Generating adversarial samples:  55%|█████▌    | 238/429 [20:58<16:49,  5.29s/it]Batch 204: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 205: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 205: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 206: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 206: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 207: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 207: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 208: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 208: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 209: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 209: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 210: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 210: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 211: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 211: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 212: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 212: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 213: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 213: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 214: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 214: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 215: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 215: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 216: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 216: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 217: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 217: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 218: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 218: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 219: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 219: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 220: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 220: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 221: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 221: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 222: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 222: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 223: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 223: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 224: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 224: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 225: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 225: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 226: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 226: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 227: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 227: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 228: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 228: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 229: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 229: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 230: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 230: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 231: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 231: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 232: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 232: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 233: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 233: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 234: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 234: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 235: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 235: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 236: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 236: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 237: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 237: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 238: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  56%|█████▌    | 239/429 [21:03<16:43,  5.28s/it]Generating adversarial samples:  56%|█████▌    | 240/429 [21:09<16:38,  5.28s/it]Generating adversarial samples:  56%|█████▌    | 241/429 [21:14<16:32,  5.28s/it]Generating adversarial samples:  56%|█████▋    | 242/429 [21:19<16:27,  5.28s/it]Generating adversarial samples:  57%|█████▋    | 243/429 [21:24<16:20,  5.27s/it]Generating adversarial samples:  57%|█████▋    | 244/429 [21:30<16:16,  5.28s/it]Generating adversarial samples:  57%|█████▋    | 245/429 [21:35<16:08,  5.26s/it]Generating adversarial samples:  57%|█████▋    | 246/429 [21:40<16:03,  5.27s/it]Generating adversarial samples:  58%|█████▊    | 247/429 [21:46<16:01,  5.29s/it]Generating adversarial samples:  58%|█████▊    | 248/429 [21:51<15:56,  5.29s/it]Generating adversarial samples:  58%|█████▊    | 249/429 [21:56<15:49,  5.28s/it]Generating adversarial samples:  58%|█████▊    | 250/429 [22:01<15:45,  5.28s/it]Generating adversarial samples:  59%|█████▊    | 251/429 [22:07<15:38,  5.27s/it]Generating adversarial samples:  59%|█████▊    | 252/429 [22:12<15:34,  5.28s/it]Generating adversarial samples:  59%|█████▉    | 253/429 [22:17<15:27,  5.27s/it]Generating adversarial samples:  59%|█████▉    | 254/429 [22:23<15:23,  5.27s/it]Generating adversarial samples:  59%|█████▉    | 255/429 [22:28<15:15,  5.26s/it]Generating adversarial samples:  60%|█████▉    | 256/429 [22:33<15:13,  5.28s/it]Generating adversarial samples:  60%|█████▉    | 257/429 [22:38<15:05,  5.27s/it]Generating adversarial samples:  60%|██████    | 258/429 [22:44<15:01,  5.27s/it]Generating adversarial samples:  60%|██████    | 259/429 [22:49<14:59,  5.29s/it]Generating adversarial samples:  61%|██████    | 260/429 [22:54<14:52,  5.28s/it]Generating adversarial samples:  61%|██████    | 261/429 [22:59<14:47,  5.28s/it]Generating adversarial samples:  61%|██████    | 262/429 [23:05<14:40,  5.27s/it]Generating adversarial samples:  61%|██████▏   | 263/429 [23:10<14:35,  5.28s/it]Generating adversarial samples:  62%|██████▏   | 264/429 [23:15<14:30,  5.27s/it]Generating adversarial samples:  62%|██████▏   | 265/429 [23:21<14:23,  5.26s/it]Generating adversarial samples:  62%|██████▏   | 266/429 [23:26<14:19,  5.27s/it]Generating adversarial samples:  62%|██████▏   | 267/429 [23:31<14:13,  5.27s/it]Generating adversarial samples:  62%|██████▏   | 268/429 [23:36<14:07,  5.27s/it]Generating adversarial samples:  63%|██████▎   | 269/429 [23:42<14:05,  5.28s/it]Generating adversarial samples:  63%|██████▎   | 270/429 [23:47<13:59,  5.28s/it]Generating adversarial samples:  63%|██████▎   | 271/429 [23:52<13:51,  5.27s/it]Generating adversarial samples:  63%|██████▎   | 272/429 [23:57<13:47,  5.27s/it]Batch 238: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 239: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 239: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 240: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 240: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 241: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 241: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 242: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 242: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 243: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 243: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 244: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 244: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 245: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 245: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 246: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 246: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 247: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 247: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 248: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 248: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 249: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 249: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 250: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 250: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 251: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 251: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 252: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 252: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 253: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 253: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 254: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 254: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 255: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 255: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 256: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 256: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 257: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 257: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 258: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 258: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 259: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 259: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 260: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 260: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 261: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 261: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 262: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 262: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 263: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 263: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 264: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 264: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 265: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 265: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 266: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 266: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 267: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 267: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 268: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 268: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 269: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 269: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 270: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 270: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 271: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 271: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 272: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  64%|██████▎   | 273/429 [24:03<13:44,  5.28s/it]Generating adversarial samples:  64%|██████▍   | 274/429 [24:08<13:37,  5.28s/it]Generating adversarial samples:  64%|██████▍   | 275/429 [24:13<13:36,  5.30s/it]Generating adversarial samples:  64%|██████▍   | 276/429 [24:19<13:29,  5.29s/it]Generating adversarial samples:  65%|██████▍   | 277/429 [24:24<13:24,  5.29s/it]Generating adversarial samples:  65%|██████▍   | 278/429 [24:29<13:18,  5.29s/it]Generating adversarial samples:  65%|██████▌   | 279/429 [24:35<13:12,  5.29s/it]Generating adversarial samples:  65%|██████▌   | 280/429 [24:40<13:10,  5.31s/it]Generating adversarial samples:  66%|██████▌   | 281/429 [24:45<13:03,  5.29s/it]Generating adversarial samples:  66%|██████▌   | 282/429 [24:50<12:59,  5.30s/it]Generating adversarial samples:  66%|██████▌   | 283/429 [24:56<12:53,  5.30s/it]Generating adversarial samples:  66%|██████▌   | 284/429 [25:01<12:51,  5.32s/it]Generating adversarial samples:  66%|██████▋   | 285/429 [25:06<12:45,  5.32s/it]Generating adversarial samples:  67%|██████▋   | 286/429 [25:12<12:37,  5.29s/it]Generating adversarial samples:  67%|██████▋   | 287/429 [25:17<12:32,  5.30s/it]Generating adversarial samples:  67%|██████▋   | 288/429 [25:22<12:26,  5.30s/it]Generating adversarial samples:  67%|██████▋   | 289/429 [25:28<12:21,  5.30s/it]Generating adversarial samples:  68%|██████▊   | 290/429 [25:33<12:19,  5.32s/it]Generating adversarial samples:  68%|██████▊   | 291/429 [25:38<12:11,  5.30s/it]Generating adversarial samples:  68%|██████▊   | 292/429 [25:43<12:05,  5.29s/it]Generating adversarial samples:  68%|██████▊   | 293/429 [25:49<11:59,  5.29s/it]Generating adversarial samples:  69%|██████▊   | 294/429 [25:54<11:55,  5.30s/it]Generating adversarial samples:  69%|██████▉   | 295/429 [25:59<11:48,  5.29s/it]Generating adversarial samples:  69%|██████▉   | 296/429 [26:05<11:42,  5.29s/it]Generating adversarial samples:  69%|██████▉   | 297/429 [26:10<11:38,  5.29s/it]Generating adversarial samples:  69%|██████▉   | 298/429 [26:15<11:31,  5.28s/it]Generating adversarial samples:  70%|██████▉   | 299/429 [26:20<11:27,  5.29s/it]Generating adversarial samples:  70%|██████▉   | 300/429 [26:26<11:21,  5.28s/it]Generating adversarial samples:  70%|███████   | 301/429 [26:31<11:17,  5.30s/it]Generating adversarial samples:  70%|███████   | 302/429 [26:36<11:13,  5.30s/it]Generating adversarial samples:  71%|███████   | 303/429 [26:42<11:08,  5.31s/it]Generating adversarial samples:  71%|███████   | 304/429 [26:47<11:02,  5.30s/it]Generating adversarial samples:  71%|███████   | 305/429 [26:52<10:55,  5.28s/it]Generating adversarial samples:  71%|███████▏  | 306/429 [26:58<10:49,  5.28s/it]Batch 272: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 273: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 273: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 274: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 274: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 275: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 275: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 276: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 276: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 277: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 277: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 278: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 278: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 279: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 279: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 280: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 280: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 281: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 281: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 282: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 282: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 283: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 283: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 284: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 284: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 285: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 285: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 286: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 286: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 287: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 287: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 288: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 288: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 289: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 289: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 290: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 290: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 291: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 291: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 292: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 292: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 293: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 293: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 294: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 294: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 295: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 295: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 296: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 296: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 297: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 297: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 298: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 298: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 299: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 299: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 300: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 300: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 301: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 301: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 302: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 302: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 303: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 303: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 304: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 304: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 305: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 305: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 306: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  72%|███████▏  | 307/429 [27:03<10:45,  5.29s/it]Generating adversarial samples:  72%|███████▏  | 308/429 [27:08<10:43,  5.31s/it]Generating adversarial samples:  72%|███████▏  | 309/429 [27:13<10:35,  5.30s/it]Generating adversarial samples:  72%|███████▏  | 310/429 [27:19<10:30,  5.30s/it]Generating adversarial samples:  72%|███████▏  | 311/429 [27:24<10:23,  5.28s/it]Generating adversarial samples:  73%|███████▎  | 312/429 [27:29<10:17,  5.28s/it]Generating adversarial samples:  73%|███████▎  | 313/429 [27:35<10:14,  5.30s/it]Generating adversarial samples:  73%|███████▎  | 314/429 [27:40<10:07,  5.28s/it]Generating adversarial samples:  73%|███████▎  | 315/429 [27:45<10:01,  5.28s/it]Generating adversarial samples:  74%|███████▎  | 316/429 [27:50<09:58,  5.30s/it]Generating adversarial samples:  74%|███████▍  | 317/429 [27:56<09:51,  5.28s/it]Generating adversarial samples:  74%|███████▍  | 318/429 [28:01<09:46,  5.29s/it]Generating adversarial samples:  74%|███████▍  | 319/429 [28:06<09:40,  5.28s/it]Generating adversarial samples:  75%|███████▍  | 320/429 [28:12<09:39,  5.32s/it]Generating adversarial samples:  75%|███████▍  | 321/429 [28:17<09:32,  5.30s/it]Generating adversarial samples:  75%|███████▌  | 322/429 [28:22<09:25,  5.29s/it]Generating adversarial samples:  75%|███████▌  | 323/429 [28:28<09:21,  5.30s/it]Generating adversarial samples:  76%|███████▌  | 324/429 [28:33<09:15,  5.29s/it]Generating adversarial samples:  76%|███████▌  | 325/429 [28:38<09:12,  5.31s/it]Generating adversarial samples:  76%|███████▌  | 326/429 [28:43<09:05,  5.30s/it]Generating adversarial samples:  76%|███████▌  | 327/429 [28:49<08:59,  5.29s/it]Generating adversarial samples:  76%|███████▋  | 328/429 [28:54<08:53,  5.28s/it]Generating adversarial samples:  77%|███████▋  | 329/429 [28:59<08:47,  5.28s/it]Generating adversarial samples:  77%|███████▋  | 330/429 [29:05<08:43,  5.29s/it]Generating adversarial samples:  77%|███████▋  | 331/429 [29:10<08:37,  5.28s/it]Generating adversarial samples:  77%|███████▋  | 332/429 [29:15<08:33,  5.29s/it]Generating adversarial samples:  78%|███████▊  | 333/429 [29:20<08:27,  5.29s/it]Generating adversarial samples:  78%|███████▊  | 334/429 [29:26<08:22,  5.29s/it]Generating adversarial samples:  78%|███████▊  | 335/429 [29:31<08:16,  5.28s/it]Generating adversarial samples:  78%|███████▊  | 336/429 [29:36<08:10,  5.27s/it]Generating adversarial samples:  79%|███████▊  | 337/429 [29:41<08:05,  5.27s/it]Generating adversarial samples:  79%|███████▉  | 338/429 [29:47<07:59,  5.27s/it]Generating adversarial samples:  79%|███████▉  | 339/429 [29:52<07:55,  5.29s/it]Generating adversarial samples:  79%|███████▉  | 340/429 [29:57<07:50,  5.29s/it]Batch 306: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 307: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 307: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 308: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 308: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 309: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 309: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 310: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 310: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 311: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 311: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 312: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 312: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 313: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 313: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 314: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 314: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 315: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 315: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 316: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 316: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 317: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 317: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 318: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 318: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 319: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 319: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 320: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 320: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 321: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 321: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 322: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 322: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 323: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 323: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 324: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 324: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 325: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 325: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 326: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 326: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 327: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 327: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 328: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 328: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 329: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 329: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 330: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 330: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 331: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 331: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 332: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 332: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 333: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 333: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 334: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 334: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 335: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 335: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 336: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 336: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 337: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 337: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 338: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 338: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 339: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 339: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 340: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  79%|███████▉  | 341/429 [30:03<07:44,  5.28s/it]Generating adversarial samples:  80%|███████▉  | 342/429 [30:08<07:41,  5.30s/it]Generating adversarial samples:  80%|███████▉  | 343/429 [30:13<07:35,  5.30s/it]Generating adversarial samples:  80%|████████  | 344/429 [30:19<07:30,  5.30s/it]Generating adversarial samples:  80%|████████  | 345/429 [30:24<07:28,  5.34s/it]Generating adversarial samples:  81%|████████  | 346/429 [30:29<07:21,  5.32s/it]Generating adversarial samples:  81%|████████  | 347/429 [30:35<07:16,  5.32s/it]Generating adversarial samples:  81%|████████  | 348/429 [30:40<07:11,  5.32s/it]Generating adversarial samples:  81%|████████▏ | 349/429 [30:45<07:04,  5.31s/it]Generating adversarial samples:  82%|████████▏ | 350/429 [30:50<06:58,  5.30s/it]Generating adversarial samples:  82%|████████▏ | 351/429 [30:56<06:52,  5.29s/it]Generating adversarial samples:  82%|████████▏ | 352/429 [31:01<06:48,  5.30s/it]Generating adversarial samples:  82%|████████▏ | 353/429 [31:06<06:42,  5.29s/it]Generating adversarial samples:  83%|████████▎ | 354/429 [31:12<06:36,  5.29s/it]Generating adversarial samples:  83%|████████▎ | 355/429 [31:17<06:30,  5.28s/it]Generating adversarial samples:  83%|████████▎ | 356/429 [31:22<06:25,  5.27s/it]Generating adversarial samples:  83%|████████▎ | 357/429 [31:27<06:20,  5.29s/it]Generating adversarial samples:  83%|████████▎ | 358/429 [31:33<06:15,  5.28s/it]Generating adversarial samples:  84%|████████▎ | 359/429 [31:38<06:10,  5.30s/it]Generating adversarial samples:  84%|████████▍ | 360/429 [31:43<06:05,  5.30s/it]Generating adversarial samples:  84%|████████▍ | 361/429 [31:49<06:00,  5.29s/it]Generating adversarial samples:  84%|████████▍ | 362/429 [31:54<05:53,  5.28s/it]Generating adversarial samples:  85%|████████▍ | 363/429 [31:59<05:50,  5.31s/it]Generating adversarial samples:  85%|████████▍ | 364/429 [32:05<05:44,  5.30s/it]Generating adversarial samples:  85%|████████▌ | 365/429 [32:10<05:38,  5.29s/it]Generating adversarial samples:  85%|████████▌ | 366/429 [32:15<05:34,  5.30s/it]Generating adversarial samples:  86%|████████▌ | 367/429 [32:20<05:27,  5.28s/it]Generating adversarial samples:  86%|████████▌ | 368/429 [32:26<05:22,  5.28s/it]Generating adversarial samples:  86%|████████▌ | 369/429 [32:31<05:16,  5.28s/it]Generating adversarial samples:  86%|████████▌ | 370/429 [32:36<05:12,  5.30s/it]Generating adversarial samples:  86%|████████▋ | 371/429 [32:42<05:06,  5.29s/it]Generating adversarial samples:  87%|████████▋ | 372/429 [32:47<05:01,  5.29s/it]Generating adversarial samples:  87%|████████▋ | 373/429 [32:52<04:56,  5.30s/it]Generating adversarial samples:  87%|████████▋ | 374/429 [32:57<04:50,  5.29s/it]Batch 340: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 341: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 341: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 342: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 342: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 343: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 343: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 344: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 344: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 345: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 345: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 346: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 346: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 347: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 347: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 348: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 348: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 349: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 349: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 350: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 350: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 351: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 351: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 352: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 352: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 353: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 353: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 354: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 354: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 355: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 355: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 356: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 356: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 357: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 357: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 358: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 358: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 359: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 359: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 360: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 360: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 361: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 361: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 362: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 362: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 363: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 363: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 364: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 364: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 365: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 365: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 366: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 366: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 367: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 367: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 368: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 368: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 369: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 369: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 370: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 370: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 371: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 371: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 372: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 372: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 373: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 373: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 374: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  87%|████████▋ | 375/429 [33:03<04:45,  5.28s/it]Generating adversarial samples:  88%|████████▊ | 376/429 [33:08<04:40,  5.29s/it]Generating adversarial samples:  88%|████████▊ | 377/429 [33:13<04:34,  5.28s/it]Generating adversarial samples:  88%|████████▊ | 378/429 [33:19<04:29,  5.29s/it]Generating adversarial samples:  88%|████████▊ | 379/429 [33:24<04:23,  5.28s/it]Generating adversarial samples:  89%|████████▊ | 380/429 [33:29<04:20,  5.32s/it]Generating adversarial samples:  89%|████████▉ | 381/429 [33:34<04:14,  5.30s/it]Generating adversarial samples:  89%|████████▉ | 382/429 [33:40<04:08,  5.28s/it]Generating adversarial samples:  89%|████████▉ | 383/429 [33:45<04:04,  5.31s/it]Generating adversarial samples:  90%|████████▉ | 384/429 [33:50<03:58,  5.29s/it]Generating adversarial samples:  90%|████████▉ | 385/429 [33:56<03:53,  5.30s/it]Generating adversarial samples:  90%|████████▉ | 386/429 [34:01<03:47,  5.29s/it]Generating adversarial samples:  90%|█████████ | 387/429 [34:06<03:42,  5.29s/it]Generating adversarial samples:  90%|█████████ | 388/429 [34:12<03:36,  5.28s/it]Generating adversarial samples:  91%|█████████ | 389/429 [34:17<03:30,  5.27s/it]Generating adversarial samples:  91%|█████████ | 390/429 [34:22<03:26,  5.30s/it]Generating adversarial samples:  91%|█████████ | 391/429 [34:27<03:21,  5.29s/it]Generating adversarial samples:  91%|█████████▏| 392/429 [34:33<03:16,  5.30s/it]Generating adversarial samples:  92%|█████████▏| 393/429 [34:38<03:10,  5.29s/it]Generating adversarial samples:  92%|█████████▏| 394/429 [34:43<03:05,  5.30s/it]Generating adversarial samples:  92%|█████████▏| 395/429 [34:49<03:00,  5.30s/it]Generating adversarial samples:  92%|█████████▏| 396/429 [34:54<02:54,  5.28s/it]Generating adversarial samples:  93%|█████████▎| 397/429 [34:59<02:49,  5.30s/it]Generating adversarial samples:  93%|█████████▎| 398/429 [35:04<02:44,  5.29s/it]Generating adversarial samples:  93%|█████████▎| 399/429 [35:10<02:39,  5.30s/it]Generating adversarial samples:  93%|█████████▎| 400/429 [35:15<02:33,  5.29s/it]Generating adversarial samples:  93%|█████████▎| 401/429 [35:20<02:28,  5.31s/it]Generating adversarial samples:  94%|█████████▎| 402/429 [35:26<02:23,  5.32s/it]Generating adversarial samples:  94%|█████████▍| 403/429 [35:31<02:17,  5.30s/it]Generating adversarial samples:  94%|█████████▍| 404/429 [35:36<02:12,  5.30s/it]Generating adversarial samples:  94%|█████████▍| 405/429 [35:42<02:06,  5.28s/it]Generating adversarial samples:  95%|█████████▍| 406/429 [35:47<02:01,  5.28s/it]Generating adversarial samples:  95%|█████████▍| 407/429 [35:52<01:56,  5.28s/it]Generating adversarial samples:  95%|█████████▌| 408/429 [35:57<01:50,  5.28s/it]Batch 374: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 375: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 375: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 376: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 376: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 377: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 377: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 378: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 378: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 379: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 379: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 380: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 380: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 381: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 381: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 382: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 382: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 383: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 383: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 384: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 384: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 385: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 385: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 386: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 386: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 387: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 387: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 388: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 388: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 389: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 389: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 390: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 390: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 391: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 391: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 392: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 392: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 393: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 393: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 394: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 394: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 395: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 395: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 396: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 396: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 397: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 397: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 398: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 398: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 399: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 399: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 400: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 400: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 401: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 401: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 402: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 402: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 403: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 403: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 404: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 404: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 405: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 405: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 406: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 406: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 407: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 407: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 408: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Generating adversarial samples:  95%|█████████▌| 409/429 [36:03<01:46,  5.30s/it]Generating adversarial samples:  96%|█████████▌| 410/429 [36:08<01:40,  5.28s/it]Generating adversarial samples:  96%|█████████▌| 411/429 [36:13<01:35,  5.29s/it]Generating adversarial samples:  96%|█████████▌| 412/429 [36:19<01:29,  5.28s/it]Generating adversarial samples:  96%|█████████▋| 413/429 [36:24<01:24,  5.28s/it]Generating adversarial samples:  97%|█████████▋| 414/429 [36:29<01:18,  5.26s/it]Generating adversarial samples:  97%|█████████▋| 415/429 [36:34<01:13,  5.26s/it]Generating adversarial samples:  97%|█████████▋| 416/429 [36:40<01:08,  5.26s/it]Generating adversarial samples:  97%|█████████▋| 417/429 [36:45<01:03,  5.27s/it]Generating adversarial samples:  97%|█████████▋| 418/429 [36:50<00:58,  5.28s/it]Generating adversarial samples:  98%|█████████▊| 419/429 [36:55<00:52,  5.27s/it]Generating adversarial samples:  98%|█████████▊| 420/429 [37:01<00:47,  5.27s/it]Generating adversarial samples:  98%|█████████▊| 421/429 [37:06<00:42,  5.29s/it]Generating adversarial samples:  98%|█████████▊| 422/429 [37:11<00:36,  5.28s/it]Generating adversarial samples:  99%|█████████▊| 423/429 [37:17<00:31,  5.30s/it]Generating adversarial samples:  99%|█████████▉| 424/429 [37:22<00:26,  5.29s/it]Generating adversarial samples:  99%|█████████▉| 425/429 [37:27<00:21,  5.30s/it]Generating adversarial samples:  99%|█████████▉| 426/429 [37:32<00:15,  5.29s/it]Generating adversarial samples: 100%|█████████▉| 427/429 [37:38<00:10,  5.29s/it]Generating adversarial samples: 100%|█████████▉| 428/429 [37:43<00:05,  5.28s/it]Generating adversarial samples: 100%|██████████| 429/429 [37:47<00:00,  5.01s/it]Generating adversarial samples: 100%|██████████| 429/429 [37:47<00:00,  5.29s/it]
-Batch 408: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 409: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 409: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 410: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 410: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 411: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 411: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 412: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 412: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 413: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 413: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 414: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 414: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 415: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 415: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 416: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 416: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 417: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 417: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 418: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 418: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 419: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 419: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 420: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 420: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 421: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 421: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 422: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 422: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 423: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 423: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 424: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 424: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 425: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 425: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 426: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 426: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 427: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 427: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Batch 428: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/0
-Batch 428: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/train/1
-Generating adversarial samples:   0%|          | 0/48 [00:00<?, ?it/s]Generating adversarial samples:   2%|▏         | 1/48 [00:05<04:22,  5.59s/it]Generating adversarial samples:   4%|▍         | 2/48 [00:10<04:08,  5.40s/it]Generating adversarial samples:   6%|▋         | 3/48 [00:16<04:00,  5.35s/it]Generating adversarial samples:   8%|▊         | 4/48 [00:21<03:53,  5.31s/it]Generating adversarial samples:  10%|█         | 5/48 [00:26<03:47,  5.29s/it]Generating adversarial samples:  12%|█▎        | 6/48 [00:31<03:41,  5.27s/it]Generating adversarial samples:  15%|█▍        | 7/48 [00:37<03:35,  5.26s/it]Generating adversarial samples:  17%|█▋        | 8/48 [00:42<03:32,  5.32s/it]Generating adversarial samples:  19%|█▉        | 9/48 [00:47<03:26,  5.31s/it]Generating adversarial samples:  21%|██        | 10/48 [00:53<03:20,  5.29s/it]Generating adversarial samples:  23%|██▎       | 11/48 [00:58<03:16,  5.30s/it]Generating adversarial samples:  25%|██▌       | 12/48 [01:03<03:10,  5.28s/it]Generating adversarial samples:  27%|██▋       | 13/48 [01:08<03:05,  5.29s/it]Generating adversarial samples:  29%|██▉       | 14/48 [01:14<02:59,  5.28s/it]Generating adversarial samples:  31%|███▏      | 15/48 [01:19<02:54,  5.30s/it]Generating adversarial samples:  33%|███▎      | 16/48 [01:24<02:49,  5.28s/it]Generating adversarial samples:  35%|███▌      | 17/48 [01:30<02:43,  5.27s/it]Generating adversarial samples:  38%|███▊      | 18/48 [01:35<02:38,  5.30s/it]Generating adversarial samples:  40%|███▉      | 19/48 [01:40<02:33,  5.29s/it]Generating adversarial samples:  42%|████▏     | 20/48 [01:45<02:28,  5.29s/it]Generating adversarial samples:  44%|████▍     | 21/48 [01:51<02:22,  5.27s/it]Generating adversarial samples:  46%|████▌     | 22/48 [01:56<02:17,  5.28s/it]Generating adversarial samples:  48%|████▊     | 23/48 [02:01<02:11,  5.27s/it]Generating adversarial samples:  50%|█████     | 24/48 [02:07<02:06,  5.27s/it]Generating adversarial samples:  52%|█████▏    | 25/48 [02:12<02:01,  5.28s/it]Generating adversarial samples:  54%|█████▍    | 26/48 [02:17<01:55,  5.27s/it]Generating adversarial samples:  56%|█████▋    | 27/48 [02:22<01:50,  5.28s/it]Generating adversarial samples:  58%|█████▊    | 28/48 [02:28<01:45,  5.26s/it]Generating adversarial samples:  60%|██████    | 29/48 [02:33<01:40,  5.26s/it]Generating adversarial samples:  62%|██████▎   | 30/48 [02:38<01:34,  5.26s/it]Generating adversarial samples:  65%|██████▍   | 31/48 [02:43<01:29,  5.25s/it]Generating adversarial samples:  67%|██████▋   | 32/48 [02:49<01:24,  5.27s/it]Generating adversarial samples:  69%|██████▉   | 33/48 [02:54<01:18,  5.26s/it]Generating adversarial samples:  71%|███████   | 34/48 [02:59<01:13,  5.29s/it]Batch 0: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 0: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 1: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 1: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 2: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 2: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 3: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 3: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 4: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 4: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 5: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 5: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 6: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 6: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 7: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 7: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 8: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 8: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 9: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 9: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 10: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 10: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 11: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 11: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 12: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 12: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 13: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 13: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 14: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 14: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 15: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 15: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 16: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 16: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 17: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 17: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 18: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 18: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 19: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 19: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 20: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 20: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 21: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 21: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 22: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 22: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 23: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 23: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 24: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 24: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 25: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 25: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 26: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 26: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 27: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 27: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 28: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 28: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 29: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 29: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 30: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 30: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 31: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 31: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 32: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 32: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 33: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 33: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 34: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Generating adversarial samples:  73%|███████▎  | 35/48 [03:05<01:08,  5.27s/it]Generating adversarial samples:  75%|███████▌  | 36/48 [03:10<01:03,  5.29s/it]Generating adversarial samples:  77%|███████▋  | 37/48 [03:15<00:58,  5.27s/it]Generating adversarial samples:  79%|███████▉  | 38/48 [03:20<00:52,  5.26s/it]Generating adversarial samples:  81%|████████▏ | 39/48 [03:26<00:47,  5.29s/it]Generating adversarial samples:  83%|████████▎ | 40/48 [03:31<00:42,  5.27s/it]Generating adversarial samples:  85%|████████▌ | 41/48 [03:36<00:36,  5.28s/it]Generating adversarial samples:  88%|████████▊ | 42/48 [03:41<00:31,  5.27s/it]Generating adversarial samples:  90%|████████▉ | 43/48 [03:47<00:26,  5.28s/it]Generating adversarial samples:  92%|█████████▏| 44/48 [03:52<00:21,  5.28s/it]Generating adversarial samples:  94%|█████████▍| 45/48 [03:57<00:15,  5.27s/it]Generating adversarial samples:  96%|█████████▌| 46/48 [04:02<00:10,  5.26s/it]Generating adversarial samples:  98%|█████████▊| 47/48 [04:08<00:05,  5.26s/it]Generating adversarial samples: 100%|██████████| 48/48 [04:11<00:00,  4.73s/it]Generating adversarial samples: 100%|██████████| 48/48 [04:11<00:00,  5.25s/it]
-Batch 34: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 35: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 35: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 36: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 36: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 37: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 37: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 38: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 38: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 39: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 39: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 40: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 40: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 41: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 41: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 42: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 42: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 43: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 43: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 44: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 44: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 45: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 45: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 46: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 46: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
-Batch 47: Natural samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/0
-Batch 47: Adversarial samples saved to /home/intent/advDetect/github项目/DBA-master/adversarial_samples_folder/test/1
